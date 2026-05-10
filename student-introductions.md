@@ -24,4 +24,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Tharushika Sethani
+- **GitHub Username:** @tharushikasethani
+- **Location:** Matara
+- **Background:** Computer Science student in UCSC and learning web development
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Date Added:** May 10, 2026
 
